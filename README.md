@@ -16,30 +16,6 @@
 
 <br/>
 
-# ☕️ 코드리뷰 모임 - Black Coffee
-
-<br/>
-
-> '훌륭한 의사소통은 블랙커피처럼 자극적이며, 후에 잠들기가 어렵다'. <br> A.M. 린드버그(미국의 작가, 수필가) -
-
-<br/>
-
-블랙커피처럼 서로를 자극해주고, 동기부여 해주며, 그 성장과정으로 인해 의미있는 가치를 만들어내고자 하는  
-**개발자 커뮤니티** ☕️ **Black Coffee**입니다.
-
-<br/>
-
-## 🔥 Projects!
-
-<p align="middle">
-  <img width="400" src="./src/images/moonbucks-main.png">
-</p>
-
-<p align="middle">
-  <a href="https://blackcoffee-study.github.io/moonbucks-menu/">🖥️ 데모 링크</a>
-</p>
-
-<br/>
 
 ## 🎯 step1 요구사항 - 돔 조작과 이벤트 핸들링으로 메뉴 관리하기
 
@@ -220,26 +196,6 @@ live-server 폴더명
 
 <br/>
 
-## 💻 Code Review
-
-아래 링크들에 있는 리뷰 가이드를 보고, 좋은 코드 리뷰 문화를 만들어 나가려고 합니다.
-
-- [코드리뷰 가이드1](https://edykim.com/ko/post/code-review-guide/)
-- [코드리뷰 가이드2](https://wiki.lucashan.space/code-review/01.intro/)
-
-<br/>
-
-## 👏🏼 Contributing
-
-만약 미션 수행 중에 개선사항이 필요하다면, 언제든 자유롭게 PR을 보내주세요.
-
-<br/>
-
-## 🐞 Bug Report
-
-버그를 발견한다면, [Issues](https://github.com/blackcoffee-study/moonbucks-menu/issues)에 등록해주세요.
-
-<br/>
 
 ## 📝 License
 
